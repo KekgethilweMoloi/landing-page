@@ -140,5 +140,57 @@ button{
     align-self: flex-end;
 }
 
+/*Bottom section*/
+
+.bottom{
+    display: flex;
+    max-width: 100vw;
+    padding: 0vw 15vw;
+}
+
+.action{
+    display: flex;
+    max-width: 100vw;
+    padding: 0vw 14vw;
+    align-items: center;
+    height: 105px;
+    background-color: #3882F6;
+    border-radius: 4px;
+    margin: 50px 0;
+
+}
+
+
+#five{
+    font-weight: bold;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+
+.sign_up{
+    padding: 1px 20px;
+    border:solid #F9FAF8;
+    border-radius: 8px;
+    margin-left: 100px;
+    font-weight: bold;
+    color: #F9FAF8;
+
+}
+
+#six{
+    color: #F9FAF8;
+    padding-top: 0;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+
 
 
