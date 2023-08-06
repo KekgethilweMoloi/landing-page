@@ -71,3 +71,53 @@ button{
     margin: 5px 10px;
     background-color: gray;
 }
+
+/*Mid section*/
+
+.mid{
+    display: flex;
+    flex-direction: column;
+    max-width: 100vw;
+    padding: 0vw 15vw;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    margin-top: 30px;
+}
+
+.content02{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgs{
+    display: flex;
+    flex-direction: column;
+    max-width: 160px;
+    margin: 5px 10px;
+    align-items: center;
+}
+
+.imgs img{
+    height: 150px;
+    border: solid #3882F6;
+    border-radius: 8px;
+}
+
+.imgs p{
+    color: gray;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+/*Mid section - mid02*/
+
+
+
